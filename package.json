@@ -1,0 +1,21 @@
+{
+  "name": "email-asterisks",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "description": "Replace some characters in email address with Asterisks (*)",
+  "author": "kt3ps",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:beforesecond/hello-nextzy.git"
+  },
+  "keywords": [
+    "asterisks",
+    "email"
+  ],
+  "bugs": {
+    "url": "https://github.com/kt3ps/email-asterisks/issuess"
+  },
+  "homepage": "https://github.com/kt3ps/email-asterisks/blob/master/README.md",
+  "devDependencies": {}
+}
